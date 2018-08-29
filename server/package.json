@@ -1,0 +1,13 @@
+{
+  "name": "socketio-with-file-watch",
+  "description": "Socket IO with file watch",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1",
+    "watch": "^1.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
